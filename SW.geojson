@@ -38915,7 +38915,7 @@
         "fill-opacity": 0.5,
         "Name": "SW8 5",
         "Description": "SW8 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SW8 5\" >Details</a>",
-        "houses": 0
+        "houses": 401
       },
       "geometry": {
         "type": "MultiPolygon",

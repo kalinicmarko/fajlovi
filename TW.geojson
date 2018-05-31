@@ -3267,7 +3267,7 @@
         "fill-opacity": 0.5,
         "Name": "TW6 2",
         "Description": "TW6 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=TW6 2\" >Details</a>",
-        "houses": 0
+        "houses": 21
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3709,7 +3709,7 @@
         "fill-opacity": 0.5,
         "Name": "TW6 1",
         "Description": "TW6 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=TW6 1\" >Details</a>",
-        "houses": 0
+        "houses": 2
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3835,7 +3835,7 @@
         "fill-opacity": 0.5,
         "Name": "TW6 3",
         "Description": "TW6 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=TW6 3\" >Details</a>",
-        "houses": 2
+        "houses": 54
       },
       "geometry": {
         "type": "MultiPolygon",
