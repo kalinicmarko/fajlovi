@@ -11,7 +11,9 @@
         "fill-opacity": 0.5,
         "Name": "RM18 8",
         "Description": "RM18 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM18 8\" >Details</a>",
-        "houses": 4937
+        "houses": 5037,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -485,7 +487,9 @@
         "fill-opacity": 0.5,
         "Name": "RM18 7",
         "Description": "RM18 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM18 7\" >Details</a>",
-        "houses": 2017
+        "houses": 2117,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -895,7 +899,9 @@
         "fill-opacity": 0.5,
         "Name": "RM16 4",
         "Description": "RM16 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM16 4\" >Details</a>",
-        "houses": 4176
+        "houses": 4276,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1177,7 +1183,9 @@
         "fill-opacity": 0.5,
         "Name": "RM17 6",
         "Description": "RM17 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM17 6\" >Details</a>",
-        "houses": 6406
+        "houses": 6506,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1791,7 +1799,9 @@
         "fill-opacity": 0.5,
         "Name": "RM17 5",
         "Description": "RM17 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM17 5\" >Details</a>",
-        "houses": 5096
+        "houses": 5196,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2477,7 +2487,9 @@
         "fill-opacity": 0.5,
         "Name": "RM20 4",
         "Description": "RM20 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM20 4\" >Details</a>",
-        "houses": 1715
+        "houses": 1815,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2667,7 +2679,9 @@
         "fill-opacity": 0.5,
         "Name": "RM16 6",
         "Description": "RM16 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM16 6\" >Details</a>",
-        "houses": 5577
+        "houses": 5677,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3021,7 +3035,9 @@
         "fill-opacity": 0.5,
         "Name": "RM16 5",
         "Description": "RM16 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM16 5\" >Details</a>",
-        "houses": 354
+        "houses": 454,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3235,7 +3251,9 @@
         "fill-opacity": 0.5,
         "Name": "RM16 2",
         "Description": "RM16 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM16 2\" >Details</a>",
-        "houses": 5153
+        "houses": 5253,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3677,7 +3695,9 @@
         "fill-opacity": 0.5,
         "Name": "RM16 3",
         "Description": "RM16 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM16 3\" >Details</a>",
-        "houses": 1446
+        "houses": 1546,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4015,7 +4035,9 @@
         "fill-opacity": 0.5,
         "Name": "RM15 6",
         "Description": "RM15 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM15 6\" >Details</a>",
-        "houses": 3736
+        "houses": 3836,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4413,7 +4435,9 @@
         "fill-opacity": 0.5,
         "Name": "RM15 5",
         "Description": "RM15 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM15 5\" >Details</a>",
-        "houses": 5035
+        "houses": 5135,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4747,7 +4771,9 @@
         "fill-opacity": 0.5,
         "Name": "RM15 4",
         "Description": "RM15 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM15 4\" >Details</a>",
-        "houses": 3580
+        "houses": 3680,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4965,7 +4991,9 @@
         "fill-opacity": 0.5,
         "Name": "RM19 1",
         "Description": "RM19 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM19 1\" >Details</a>",
-        "houses": 3071
+        "houses": 3171,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5283,7 +5311,9 @@
         "fill-opacity": 0.5,
         "Name": "RM13 9",
         "Description": "RM13 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM13 9\" >Details</a>",
-        "houses": 5240
+        "houses": 5340,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5577,7 +5607,9 @@
         "fill-opacity": 0.5,
         "Name": "RM14 2",
         "Description": "RM14 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM14 2\" >Details</a>",
-        "houses": 4030
+        "houses": 4130,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6167,7 +6199,9 @@
         "fill-opacity": 0.5,
         "Name": "RM14 3",
         "Description": "RM14 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM14 3\" >Details</a>",
-        "houses": 2692
+        "houses": 2792,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6801,7 +6835,9 @@
         "fill-opacity": 0.5,
         "Name": "RM14 1",
         "Description": "RM14 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM14 1\" >Details</a>",
-        "houses": 4502
+        "houses": 4602,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7183,7 +7219,9 @@
         "fill-opacity": 0.5,
         "Name": "RM11 3",
         "Description": "RM11 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM11 3\" >Details</a>",
-        "houses": 3781
+        "houses": 3881,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7733,7 +7771,9 @@
         "fill-opacity": 0.5,
         "Name": "RM12 6",
         "Description": "RM12 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM12 6\" >Details</a>",
-        "houses": 3325
+        "houses": 3425,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8283,7 +8323,9 @@
         "fill-opacity": 0.5,
         "Name": "RM11 1",
         "Description": "RM11 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM11 1\" >Details</a>",
-        "houses": 4584
+        "houses": 4684,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8905,7 +8947,9 @@
         "fill-opacity": 0.5,
         "Name": "RM11 2",
         "Description": "RM11 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM11 2\" >Details</a>",
-        "houses": 4858
+        "houses": 4958,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9455,7 +9499,9 @@
         "fill-opacity": 0.5,
         "Name": "RM12 4",
         "Description": "RM12 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM12 4\" >Details</a>",
-        "houses": 6726
+        "houses": 6826,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10097,7 +10143,9 @@
         "fill-opacity": 0.5,
         "Name": "RM12 5",
         "Description": "RM12 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM12 5\" >Details</a>",
-        "houses": 4443
+        "houses": 4543,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10599,7 +10647,9 @@
         "fill-opacity": 0.5,
         "Name": "RM13 7",
         "Description": "RM13 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM13 7\" >Details</a>",
-        "houses": 3839
+        "houses": 3939,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11017,7 +11067,9 @@
         "fill-opacity": 0.5,
         "Name": "RM13 8",
         "Description": "RM13 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM13 8\" >Details</a>",
-        "houses": 3287
+        "houses": 3387,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11351,7 +11403,9 @@
         "fill-opacity": 0.5,
         "Name": "RM9 6",
         "Description": "RM9 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM9 6\" >Details</a>",
-        "houses": 3825
+        "houses": 3925,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11785,7 +11839,9 @@
         "fill-opacity": 0.5,
         "Name": "RM10 9",
         "Description": "RM10 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM10 9\" >Details</a>",
-        "houses": 4889
+        "houses": 4989,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12247,7 +12303,9 @@
         "fill-opacity": 0.5,
         "Name": "RM9 4",
         "Description": "RM9 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM9 4\" >Details</a>",
-        "houses": 5134
+        "houses": 5234,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12601,7 +12659,9 @@
         "fill-opacity": 0.5,
         "Name": "RM8 2",
         "Description": "RM8 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM8 2\" >Details</a>",
-        "houses": 6550
+        "houses": 6650,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13155,7 +13215,9 @@
         "fill-opacity": 0.5,
         "Name": "RM9 5",
         "Description": "RM9 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM9 5\" >Details</a>",
-        "houses": 5542
+        "houses": 5642,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13729,7 +13791,9 @@
         "fill-opacity": 0.5,
         "Name": "RM10 8",
         "Description": "RM10 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM10 8\" >Details</a>",
-        "houses": 5781
+        "houses": 5881,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14307,7 +14371,9 @@
         "fill-opacity": 0.5,
         "Name": "RM10 7",
         "Description": "RM10 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM10 7\" >Details</a>",
-        "houses": 4229
+        "houses": 4329,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14737,7 +14803,9 @@
         "fill-opacity": 0.5,
         "Name": "RM8 3",
         "Description": "RM8 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM8 3\" >Details</a>",
-        "houses": 4786
+        "houses": 4886,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15299,7 +15367,9 @@
         "fill-opacity": 0.5,
         "Name": "RM7 0",
         "Description": "RM7 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM7 0\" >Details</a>",
-        "houses": 5323
+        "houses": 5423,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15797,7 +15867,9 @@
         "fill-opacity": 0.5,
         "Name": "RM8 1",
         "Description": "RM8 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM8 1\" >Details</a>",
-        "houses": 4843
+        "houses": 4943,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16319,7 +16391,9 @@
         "fill-opacity": 0.5,
         "Name": "RM6 4",
         "Description": "RM6 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM6 4\" >Details</a>",
-        "houses": 4855
+        "houses": 4955,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16825,7 +16899,9 @@
         "fill-opacity": 0.5,
         "Name": "RM6 6",
         "Description": "RM6 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM6 6\" >Details</a>",
-        "houses": 3819
+        "houses": 3919,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17299,7 +17375,9 @@
         "fill-opacity": 0.5,
         "Name": "RM7 9",
         "Description": "RM7 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM7 9\" >Details</a>",
-        "houses": 2475
+        "houses": 2575,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17621,7 +17699,9 @@
         "fill-opacity": 0.5,
         "Name": "RM1 1",
         "Description": "RM1 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM1 1\" >Details</a>",
-        "houses": 808
+        "houses": 908,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18039,7 +18119,9 @@
         "fill-opacity": 0.5,
         "Name": "RM1 2",
         "Description": "RM1 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM1 2\" >Details</a>",
-        "houses": 2357
+        "houses": 2457,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18477,7 +18559,9 @@
         "fill-opacity": 0.5,
         "Name": "RM6 5",
         "Description": "RM6 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM6 5\" >Details</a>",
-        "houses": 4030
+        "houses": 4130,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18915,7 +18999,9 @@
         "fill-opacity": 0.5,
         "Name": "RM7 8",
         "Description": "RM7 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM7 8\" >Details</a>",
-        "houses": 3017
+        "houses": 3117,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19289,7 +19375,9 @@
         "fill-opacity": 0.5,
         "Name": "RM5 2",
         "Description": "RM5 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM5 2\" >Details</a>",
-        "houses": 3593
+        "houses": 3693,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19735,7 +19823,9 @@
         "fill-opacity": 0.5,
         "Name": "RM7 7",
         "Description": "RM7 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM7 7\" >Details</a>",
-        "houses": 1938
+        "houses": 2038,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20065,7 +20155,9 @@
         "fill-opacity": 0.5,
         "Name": "RM1 3",
         "Description": "RM1 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM1 3\" >Details</a>",
-        "houses": 1261
+        "houses": 1361,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20351,7 +20443,9 @@
         "fill-opacity": 0.5,
         "Name": "RM1 4",
         "Description": "RM1 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM1 4\" >Details</a>",
-        "houses": 5172
+        "houses": 5272,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20969,7 +21063,9 @@
         "fill-opacity": 0.5,
         "Name": "RM5 3",
         "Description": "RM5 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM5 3\" >Details</a>",
-        "houses": 4258
+        "houses": 4358,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21599,7 +21695,9 @@
         "fill-opacity": 0.5,
         "Name": "RM2 5",
         "Description": "RM2 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM2 5\" >Details</a>",
-        "houses": 3069
+        "houses": 3169,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22089,7 +22187,9 @@
         "fill-opacity": 0.5,
         "Name": "RM2 6",
         "Description": "RM2 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM2 6\" >Details</a>",
-        "houses": 2874
+        "houses": 2974,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22479,7 +22579,9 @@
         "fill-opacity": 0.5,
         "Name": "RM3 0",
         "Description": "RM3 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM3 0\" >Details</a>",
-        "houses": 5037
+        "houses": 5137,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22989,7 +23091,9 @@
         "fill-opacity": 0.5,
         "Name": "RM3 9",
         "Description": "RM3 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM3 9\" >Details</a>",
-        "houses": 4550
+        "houses": 4650,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23387,7 +23491,9 @@
         "fill-opacity": 0.5,
         "Name": "RM3 8",
         "Description": "RM3 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM3 8\" >Details</a>",
-        "houses": 3977
+        "houses": 4077,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23877,7 +23983,9 @@
         "fill-opacity": 0.5,
         "Name": "RM3 7",
         "Description": "RM3 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM3 7\" >Details</a>",
-        "houses": 5319
+        "houses": 5419,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24507,7 +24615,9 @@
         "fill-opacity": 0.5,
         "Name": "RM4",
         "Description": "RM4 postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=RM4\" >Details</a>",
-        "houses": 1912
+        "houses": 2012,
+        "price-solus": 95,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
