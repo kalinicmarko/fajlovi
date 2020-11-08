@@ -11,7 +11,9 @@
         "fill-opacity": 0.5,
         "Name": "EN5 3",
         "Description": "EN5 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN5 3\" >Details</a>",
-        "houses": 1508
+        "houses": 1608,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -425,7 +427,9 @@
         "fill-opacity": 0.5,
         "Name": "EN5 2",
         "Description": "EN5 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN5 2\" >Details</a>",
-        "houses": 5171
+        "houses": 5271,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1003,7 +1007,9 @@
         "fill-opacity": 0.5,
         "Name": "EN5 4",
         "Description": "EN5 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN5 4\" >Details</a>",
-        "houses": 2586
+        "houses": 2686,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1505,7 +1511,9 @@
         "fill-opacity": 0.5,
         "Name": "EN5 5",
         "Description": "EN5 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN5 5\" >Details</a>",
-        "houses": 3651
+        "houses": 3751,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2131,7 +2139,9 @@
         "fill-opacity": 0.5,
         "Name": "EN5 1",
         "Description": "EN5 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN5 1\" >Details</a>",
-        "houses": 3438
+        "houses": 3538,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2689,7 +2699,9 @@
         "fill-opacity": 0.5,
         "Name": "EN4 8",
         "Description": "EN4 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN4 8\" >Details</a>",
-        "houses": 4596
+        "houses": 4696,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3359,7 +3371,9 @@
         "fill-opacity": 0.5,
         "Name": "EN4 9",
         "Description": "EN4 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN4 9\" >Details</a>",
-        "houses": 4152
+        "houses": 4252,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3817,7 +3831,9 @@
         "fill-opacity": 0.5,
         "Name": "EN6 3",
         "Description": "EN6 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN6 3\" >Details</a>",
-        "houses": 2693
+        "houses": 2793,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4179,7 +4195,9 @@
         "fill-opacity": 0.5,
         "Name": "EN6 2",
         "Description": "EN6 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN6 2\" >Details</a>",
-        "houses": 2894
+        "houses": 2994,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4669,7 +4687,9 @@
         "fill-opacity": 0.5,
         "Name": "EN4 0",
         "Description": "EN4 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN4 0\" >Details</a>",
-        "houses": 1977
+        "houses": 2077,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5147,7 +5167,9 @@
         "fill-opacity": 0.5,
         "Name": "EN2 7",
         "Description": "EN2 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN2 7\" >Details</a>",
-        "houses": 3954
+        "houses": 4054,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5673,7 +5695,9 @@
         "fill-opacity": 0.5,
         "Name": "EN6 1",
         "Description": "EN6 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN6 1\" >Details</a>",
-        "houses": 2729
+        "houses": 2829,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6031,7 +6055,9 @@
         "fill-opacity": 0.5,
         "Name": "EN6 5",
         "Description": "EN6 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN6 5\" >Details</a>",
-        "houses": 2042
+        "houses": 2142,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6381,7 +6407,9 @@
         "fill-opacity": 0.5,
         "Name": "EN2 8",
         "Description": "EN2 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN2 8\" >Details</a>",
-        "houses": 3313
+        "houses": 3413,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6891,7 +6919,9 @@
         "fill-opacity": 0.5,
         "Name": "EN2 6",
         "Description": "EN2 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN2 6\" >Details</a>",
-        "houses": 1503
+        "houses": 1603,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7353,7 +7383,9 @@
         "fill-opacity": 0.5,
         "Name": "EN2 0",
         "Description": "EN2 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN2 0\" >Details</a>",
-        "houses": 3643
+        "houses": 3743,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7779,7 +7811,9 @@
         "fill-opacity": 0.5,
         "Name": "EN1 2",
         "Description": "EN1 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN1 2\" >Details</a>",
-        "houses": 3740
+        "houses": 3840,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8325,7 +8359,9 @@
         "fill-opacity": 0.5,
         "Name": "EN1 1",
         "Description": "EN1 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN1 1\" >Details</a>",
-        "houses": 5111
+        "houses": 5211,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8987,7 +9023,9 @@
         "fill-opacity": 0.5,
         "Name": "EN2 9",
         "Description": "EN2 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN2 9\" >Details</a>",
-        "houses": 752
+        "houses": 852,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9381,7 +9419,9 @@
         "fill-opacity": 0.5,
         "Name": "EN6 4",
         "Description": "EN6 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN6 4\" >Details</a>",
-        "houses": 2373
+        "houses": 2473,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9687,7 +9727,9 @@
         "fill-opacity": 0.5,
         "Name": "EN7 5",
         "Description": "EN7 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN7 5\" >Details</a>",
-        "houses": 3122
+        "houses": 3222,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10205,7 +10247,9 @@
         "fill-opacity": 0.5,
         "Name": "EN1 3",
         "Description": "EN1 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN1 3\" >Details</a>",
-        "houses": 4383
+        "houses": 4483,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10875,7 +10919,9 @@
         "fill-opacity": 0.5,
         "Name": "EN3 4",
         "Description": "EN3 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN3 4\" >Details</a>",
-        "houses": 4397
+        "houses": 4497,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11341,7 +11387,9 @@
         "fill-opacity": 0.5,
         "Name": "EN3 7",
         "Description": "EN3 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN3 7\" >Details</a>",
-        "houses": 4095
+        "houses": 4195,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12063,7 +12111,9 @@
         "fill-opacity": 0.5,
         "Name": "EN3 5",
         "Description": "EN3 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN3 5\" >Details</a>",
-        "houses": 6217
+        "houses": 6317,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12697,7 +12747,9 @@
         "fill-opacity": 0.5,
         "Name": "EN1 4",
         "Description": "EN1 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN1 4\" >Details</a>",
-        "houses": 5627
+        "houses": 5727,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13243,7 +13295,9 @@
         "fill-opacity": 0.5,
         "Name": "EN3 6",
         "Description": "EN3 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN3 6\" >Details</a>",
-        "houses": 6846
+        "houses": 6946,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13749,7 +13803,9 @@
         "fill-opacity": 0.5,
         "Name": "EN8 7",
         "Description": "EN8 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN8 7\" >Details</a>",
-        "houses": 3276
+        "houses": 3376,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14199,7 +14255,9 @@
         "fill-opacity": 0.5,
         "Name": "EN8 8",
         "Description": "EN8 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN8 8\" >Details</a>",
-        "houses": 5025
+        "houses": 5125,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14889,7 +14947,9 @@
         "fill-opacity": 0.5,
         "Name": "EN9 3",
         "Description": "EN9 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN9 3\" >Details</a>",
-        "houses": 5039
+        "houses": 5139,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15407,7 +15467,9 @@
         "fill-opacity": 0.5,
         "Name": "EN9 1",
         "Description": "EN9 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN9 1\" >Details</a>",
-        "houses": 3138
+        "houses": 3238,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15865,7 +15927,9 @@
         "fill-opacity": 0.5,
         "Name": "EN8 9",
         "Description": "EN8 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN8 9\" >Details</a>",
-        "houses": 3223
+        "houses": 3323,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16463,7 +16527,9 @@
         "fill-opacity": 0.5,
         "Name": "EN8 0",
         "Description": "EN8 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN8 0\" >Details</a>",
-        "houses": 4444
+        "houses": 4544,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16937,7 +17003,9 @@
         "fill-opacity": 0.5,
         "Name": "EN7 6",
         "Description": "EN7 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN7 6\" >Details</a>",
-        "houses": 5794
+        "houses": 5894,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17351,7 +17419,9 @@
         "fill-opacity": 0.5,
         "Name": "EN9 2",
         "Description": "EN9 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN9 2\" >Details</a>",
-        "houses": 2352
+        "houses": 2452,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17761,7 +17831,9 @@
         "fill-opacity": 0.5,
         "Name": "EN10 6",
         "Description": "EN10 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN10 6\" >Details</a>",
-        "houses": 5016
+        "houses": 5116,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18119,7 +18191,9 @@
         "fill-opacity": 0.5,
         "Name": "EN10 7",
         "Description": "EN10 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN10 7\" >Details</a>",
-        "houses": 2457
+        "houses": 2557,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18541,7 +18615,9 @@
         "fill-opacity": 0.5,
         "Name": "EN11 0",
         "Description": "EN11 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN11 0\" >Details</a>",
-        "houses": 2604
+        "houses": 2704,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18983,7 +19059,9 @@
         "fill-opacity": 0.5,
         "Name": "EN11 8",
         "Description": "EN11 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN11 8\" >Details</a>",
-        "houses": 2953
+        "houses": 3053,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19457,7 +19535,9 @@
         "fill-opacity": 0.5,
         "Name": "EN11 9",
         "Description": "EN11 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EN11 9\" >Details</a>",
-        "houses": 3791
+        "houses": 3891,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
