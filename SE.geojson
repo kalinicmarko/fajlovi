@@ -11,7 +11,9 @@
         "fill-opacity": 0.5,
         "Name": "SE25 5",
         "Description": "SE25 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE25 5\" >Details</a>",
-        "houses": 3617
+        "houses": 3817,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -685,7 +687,9 @@
         "fill-opacity": 0.5,
         "Name": "SE25 6",
         "Description": "SE25 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE25 6\" >Details</a>",
-        "houses": 6837
+        "houses": 7037,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1355,7 +1359,9 @@
         "fill-opacity": 0.5,
         "Name": "SE25 4",
         "Description": "SE25 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE25 4\" >Details</a>",
-        "houses": 5108
+        "houses": 5308,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2065,7 +2071,9 @@
         "fill-opacity": 0.5,
         "Name": "SE19 3",
         "Description": "SE19 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE19 3\" >Details</a>",
-        "houses": 5146
+        "houses": 5346,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2771,7 +2779,9 @@
         "fill-opacity": 0.5,
         "Name": "SE19 2",
         "Description": "SE19 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE19 2\" >Details</a>",
-        "houses": 4245
+        "houses": 4445,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3273,7 +3283,9 @@
         "fill-opacity": 0.5,
         "Name": "SE20 8",
         "Description": "SE20 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE20 8\" >Details</a>",
-        "houses": 5218
+        "houses": 5418,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3815,7 +3827,9 @@
         "fill-opacity": 0.5,
         "Name": "SE20 7",
         "Description": "SE20 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE20 7\" >Details</a>",
-        "houses": 5402
+        "houses": 5602,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4641,7 +4655,9 @@
         "fill-opacity": 0.5,
         "Name": "SE27 0",
         "Description": "SE27 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE27 0\" >Details</a>",
-        "houses": 4683
+        "houses": 4883,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5231,7 +5247,9 @@
         "fill-opacity": 0.5,
         "Name": "SE27 9",
         "Description": "SE27 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE27 9\" >Details</a>",
-        "houses": 3936
+        "houses": 4136,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5901,7 +5919,9 @@
         "fill-opacity": 0.5,
         "Name": "SE21 8",
         "Description": "SE21 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE21 8\" >Details</a>",
-        "houses": 4653
+        "houses": 4853,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6499,7 +6519,9 @@
         "fill-opacity": 0.5,
         "Name": "SE19 1",
         "Description": "SE19 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE19 1\" >Details</a>",
-        "houses": 3838
+        "houses": 4038,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7013,7 +7035,9 @@
         "fill-opacity": 0.5,
         "Name": "SE26 6",
         "Description": "SE26 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE26 6\" >Details</a>",
-        "houses": 5461
+        "houses": 5661,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7443,7 +7467,9 @@
         "fill-opacity": 0.5,
         "Name": "SE26 5",
         "Description": "SE26 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE26 5\" >Details</a>",
-        "houses": 3185
+        "houses": 3385,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8037,7 +8063,9 @@
         "fill-opacity": 0.5,
         "Name": "SE26 4",
         "Description": "SE26 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE26 4\" >Details</a>",
-        "houses": 4350
+        "houses": 4550,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8687,7 +8715,9 @@
         "fill-opacity": 0.5,
         "Name": "SE24 0",
         "Description": "SE24 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE24 0\" >Details</a>",
-        "houses": 3140
+        "houses": 3340,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9265,7 +9295,9 @@
         "fill-opacity": 0.5,
         "Name": "SE24 9",
         "Description": "SE24 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE24 9\" >Details</a>",
-        "houses": 3941
+        "houses": 4141,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9815,7 +9847,9 @@
         "fill-opacity": 0.5,
         "Name": "SE21 7",
         "Description": "SE21 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE21 7\" >Details</a>",
-        "houses": 1137
+        "houses": 1337,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10301,7 +10335,9 @@
         "fill-opacity": 0.5,
         "Name": "SE6 3",
         "Description": "SE6 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE6 3\" >Details</a>",
-        "houses": 4716
+        "houses": 4916,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10835,7 +10871,9 @@
         "fill-opacity": 0.5,
         "Name": "SE6 4",
         "Description": "SE6 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE6 4\" >Details</a>",
-        "houses": 5191
+        "houses": 5391,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11405,7 +11443,9 @@
         "fill-opacity": 0.5,
         "Name": "SE23 2",
         "Description": "SE23 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE23 2\" >Details</a>",
-        "houses": 5344
+        "houses": 5544,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11911,7 +11951,9 @@
         "fill-opacity": 0.5,
         "Name": "SE23 1",
         "Description": "SE23 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE23 1\" >Details</a>",
-        "houses": 3740
+        "houses": 3940,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12361,7 +12403,9 @@
         "fill-opacity": 0.5,
         "Name": "SE6 2",
         "Description": "SE6 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE6 2\" >Details</a>",
-        "houses": 5461
+        "houses": 5661,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13047,7 +13091,9 @@
         "fill-opacity": 0.5,
         "Name": "SE6 1",
         "Description": "SE6 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE6 1\" >Details</a>",
-        "houses": 6487
+        "houses": 6687,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13541,7 +13587,9 @@
         "fill-opacity": 0.5,
         "Name": "SE23 3",
         "Description": "SE23 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE23 3\" >Details</a>",
-        "houses": 5389
+        "houses": 5589,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14087,7 +14135,9 @@
         "fill-opacity": 0.5,
         "Name": "SE22 0",
         "Description": "SE22 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE22 0\" >Details</a>",
-        "houses": 3440
+        "houses": 3640,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14605,7 +14655,9 @@
         "fill-opacity": 0.5,
         "Name": "SE22 9",
         "Description": "SE22 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE22 9\" >Details</a>",
-        "houses": 3112
+        "houses": 3312,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15051,7 +15103,9 @@
         "fill-opacity": 0.5,
         "Name": "SE22 8",
         "Description": "SE22 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE22 8\" >Details</a>",
-        "houses": 4732
+        "houses": 4932,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15785,7 +15839,9 @@
         "fill-opacity": 0.5,
         "Name": "SE5 8",
         "Description": "SE5 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE5 8\" >Details</a>",
-        "houses": 6432
+        "houses": 6632,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16523,7 +16579,9 @@
         "fill-opacity": 0.5,
         "Name": "SE5 9",
         "Description": "SE5 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE5 9\" >Details</a>",
-        "houses": 4052
+        "houses": 4252,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17021,7 +17079,9 @@
         "fill-opacity": 0.5,
         "Name": "SE1 9",
         "Description": "SE1 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE1 9\" >Details</a>",
-        "houses": 1581
+        "houses": 1781,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17755,7 +17815,9 @@
         "fill-opacity": 0.5,
         "Name": "SE1 8",
         "Description": "SE1 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE1 8\" >Details</a>",
-        "houses": 2641
+        "houses": 2841,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18273,7 +18335,9 @@
         "fill-opacity": 0.5,
         "Name": "SE1 7",
         "Description": "SE1 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE1 7\" >Details</a>",
-        "houses": 3912
+        "houses": 4112,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18799,7 +18863,9 @@
         "fill-opacity": 0.5,
         "Name": "SE11 6",
         "Description": "SE11 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE11 6\" >Details</a>",
-        "houses": 2612
+        "houses": 2812,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19189,7 +19255,9 @@
         "fill-opacity": 0.5,
         "Name": "SE11 5",
         "Description": "SE11 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE11 5\" >Details</a>",
-        "houses": 3796
+        "houses": 3996,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19647,7 +19715,9 @@
         "fill-opacity": 0.5,
         "Name": "SE11 4",
         "Description": "SE11 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE11 4\" >Details</a>",
-        "houses": 4148
+        "houses": 4348,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20221,7 +20291,9 @@
         "fill-opacity": 0.5,
         "Name": "SE17 3",
         "Description": "SE17 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE17 3\" >Details</a>",
-        "houses": 5601
+        "houses": 5801,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20767,7 +20839,9 @@
         "fill-opacity": 0.5,
         "Name": "SE1 6",
         "Description": "SE1 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE1 6\" >Details</a>",
-        "houses": 3613
+        "houses": 3813,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21233,7 +21307,9 @@
         "fill-opacity": 0.5,
         "Name": "SE1 0",
         "Description": "SE1 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE1 0\" >Details</a>",
-        "houses": 2477
+        "houses": 2677,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21767,7 +21843,9 @@
         "fill-opacity": 0.5,
         "Name": "SE1 1",
         "Description": "SE1 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE1 1\" >Details</a>",
-        "houses": 2289
+        "houses": 2489,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22245,7 +22323,9 @@
         "fill-opacity": 0.5,
         "Name": "SE1 2",
         "Description": "SE1 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE1 2\" >Details</a>",
-        "houses": 4125
+        "houses": 4325,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22707,7 +22787,9 @@
         "fill-opacity": 0.5,
         "Name": "SE1 3",
         "Description": "SE1 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE1 3\" >Details</a>",
-        "houses": 4688
+        "houses": 4888,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23357,7 +23439,9 @@
         "fill-opacity": 0.5,
         "Name": "SE1 4",
         "Description": "SE1 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE1 4\" >Details</a>",
-        "houses": 5431
+        "houses": 5631,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23915,7 +23999,9 @@
         "fill-opacity": 0.5,
         "Name": "SE17 1",
         "Description": "SE17 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE17 1\" >Details</a>",
-        "houses": 4844
+        "houses": 5044,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24437,7 +24523,9 @@
         "fill-opacity": 0.5,
         "Name": "SE17 2",
         "Description": "SE17 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE17 2\" >Details</a>",
-        "houses": 4859
+        "houses": 5059,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24999,7 +25087,9 @@
         "fill-opacity": 0.5,
         "Name": "SE1 5",
         "Description": "SE1 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE1 5\" >Details</a>",
-        "houses": 5249
+        "houses": 5449,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25677,7 +25767,9 @@
         "fill-opacity": 0.5,
         "Name": "SE16 3",
         "Description": "SE16 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE16 3\" >Details</a>",
-        "houses": 5594
+        "houses": 5794,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26371,7 +26463,9 @@
         "fill-opacity": 0.5,
         "Name": "SE16 4",
         "Description": "SE16 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE16 4\" >Details</a>",
-        "houses": 4071
+        "houses": 4271,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26861,7 +26955,9 @@
         "fill-opacity": 0.5,
         "Name": "SE5 0",
         "Description": "SE5 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE5 0\" >Details</a>",
-        "houses": 5177
+        "houses": 5377,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27671,7 +27767,9 @@
         "fill-opacity": 0.5,
         "Name": "SE5 7",
         "Description": "SE5 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE5 7\" >Details</a>",
-        "houses": 4596
+        "houses": 4796,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28237,7 +28335,9 @@
         "fill-opacity": 0.5,
         "Name": "SE15 6",
         "Description": "SE15 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE15 6\" >Details</a>",
-        "houses": 4291
+        "houses": 4491,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28743,7 +28843,9 @@
         "fill-opacity": 0.5,
         "Name": "SE15 5",
         "Description": "SE15 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE15 5\" >Details</a>",
-        "houses": 2934
+        "houses": 3134,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29321,7 +29423,9 @@
         "fill-opacity": 0.5,
         "Name": "SE15 4",
         "Description": "SE15 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE15 4\" >Details</a>",
-        "houses": 4905
+        "houses": 5105,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29735,7 +29839,9 @@
         "fill-opacity": 0.5,
         "Name": "SE15 3",
         "Description": "SE15 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE15 3\" >Details</a>",
-        "houses": 5050
+        "houses": 5250,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30257,7 +30363,9 @@
         "fill-opacity": 0.5,
         "Name": "SE4 2",
         "Description": "SE4 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE4 2\" >Details</a>",
-        "houses": 5404
+        "houses": 5604,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30803,7 +30911,9 @@
         "fill-opacity": 0.5,
         "Name": "SE14 5",
         "Description": "SE14 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE14 5\" >Details</a>",
-        "houses": 6338
+        "houses": 6538,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31405,7 +31515,9 @@
         "fill-opacity": 0.5,
         "Name": "SE15 2",
         "Description": "SE15 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE15 2\" >Details</a>",
-        "houses": 6122
+        "houses": 6322,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32055,7 +32167,9 @@
         "fill-opacity": 0.5,
         "Name": "SE15 1",
         "Description": "SE15 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE15 1\" >Details</a>",
-        "houses": 3884
+        "houses": 4084,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32625,7 +32739,9 @@
         "fill-opacity": 0.5,
         "Name": "SE16 5",
         "Description": "SE16 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE16 5\" >Details</a>",
-        "houses": 2276
+        "houses": 2476,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33251,7 +33367,9 @@
         "fill-opacity": 0.5,
         "Name": "SE16 6",
         "Description": "SE16 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE16 6\" >Details</a>",
-        "houses": 1848
+        "houses": 2048,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33705,7 +33823,9 @@
         "fill-opacity": 0.5,
         "Name": "SE16 7",
         "Description": "SE16 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE16 7\" >Details</a>",
-        "houses": 5876
+        "houses": 6076,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34407,7 +34527,9 @@
         "fill-opacity": 0.5,
         "Name": "SE16 2",
         "Description": "SE16 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE16 2\" >Details</a>",
-        "houses": 4658
+        "houses": 4858,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34933,7 +35055,9 @@
         "fill-opacity": 0.5,
         "Name": "SE8 3",
         "Description": "SE8 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE8 3\" >Details</a>",
-        "houses": 4855
+        "houses": 5055,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35419,7 +35543,9 @@
         "fill-opacity": 0.5,
         "Name": "SE8 5",
         "Description": "SE8 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE8 5\" >Details</a>",
-        "houses": 5144
+        "houses": 5344,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35993,7 +36119,9 @@
         "fill-opacity": 0.5,
         "Name": "SE14 6",
         "Description": "SE14 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE14 6\" >Details</a>",
-        "houses": 4063
+        "houses": 4263,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36571,7 +36699,9 @@
         "fill-opacity": 0.5,
         "Name": "SE4 1",
         "Description": "SE4 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE4 1\" >Details</a>",
-        "houses": 6221
+        "houses": 6421,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37341,7 +37471,9 @@
         "fill-opacity": 0.5,
         "Name": "SE8 4",
         "Description": "SE8 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE8 4\" >Details</a>",
-        "houses": 3907
+        "houses": 4107,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37979,7 +38111,9 @@
         "fill-opacity": 0.5,
         "Name": "SE13 7",
         "Description": "SE13 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE13 7\" >Details</a>",
-        "houses": 8258
+        "houses": 8458,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38941,7 +39075,9 @@
         "fill-opacity": 0.5,
         "Name": "SE13 6",
         "Description": "SE13 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE13 6\" >Details</a>",
-        "houses": 5377
+        "houses": 5577,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39491,7 +39627,9 @@
         "fill-opacity": 0.5,
         "Name": "SE10 0",
         "Description": "SE10 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE10 0\" >Details</a>",
-        "houses": 7120
+        "houses": 7320,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39917,7 +40055,9 @@
         "fill-opacity": 0.5,
         "Name": "SE10 9",
         "Description": "SE10 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE10 9\" >Details</a>",
-        "houses": 6023
+        "houses": 6223,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40343,7 +40483,9 @@
         "fill-opacity": 0.5,
         "Name": "SE10 8",
         "Description": "SE10 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE10 8\" >Details</a>",
-        "houses": 4172
+        "houses": 4372,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40837,7 +40979,9 @@
         "fill-opacity": 0.5,
         "Name": "SE3 7",
         "Description": "SE3 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE3 7\" >Details</a>",
-        "houses": 3447
+        "houses": 3647,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41223,7 +41367,9 @@
         "fill-opacity": 0.5,
         "Name": "SE3 0",
         "Description": "SE3 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE3 0\" >Details</a>",
-        "houses": 2281
+        "houses": 2481,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41725,7 +41871,9 @@
         "fill-opacity": 0.5,
         "Name": "SE13 5",
         "Description": "SE13 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE13 5\" >Details</a>",
-        "houses": 5035
+        "houses": 5235,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42259,7 +42407,9 @@
         "fill-opacity": 0.5,
         "Name": "SE3 9",
         "Description": "SE3 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE3 9\" >Details</a>",
-        "houses": 4616
+        "houses": 4816,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42861,7 +43011,9 @@
         "fill-opacity": 0.5,
         "Name": "SE12 8",
         "Description": "SE12 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE12 8\" >Details</a>",
-        "houses": 3838
+        "houses": 4038,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43279,7 +43431,9 @@
         "fill-opacity": 0.5,
         "Name": "SE12 0",
         "Description": "SE12 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE12 0\" >Details</a>",
-        "houses": 4189
+        "houses": 4389,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43925,7 +44079,9 @@
         "fill-opacity": 0.5,
         "Name": "SE12 9",
         "Description": "SE12 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE12 9\" >Details</a>",
-        "houses": 3824
+        "houses": 4024,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44523,7 +44679,9 @@
         "fill-opacity": 0.5,
         "Name": "SE9 4",
         "Description": "SE9 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE9 4\" >Details</a>",
-        "houses": 5671
+        "houses": 5871,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45009,7 +45167,9 @@
         "fill-opacity": 0.5,
         "Name": "SE9 3",
         "Description": "SE9 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE9 3\" >Details</a>",
-        "houses": 4771
+        "houses": 4971,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45515,7 +45675,9 @@
         "fill-opacity": 0.5,
         "Name": "SE9 2",
         "Description": "SE9 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE9 2\" >Details</a>",
-        "houses": 4191
+        "houses": 4391,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46121,7 +46283,9 @@
         "fill-opacity": 0.5,
         "Name": "SE9 5",
         "Description": "SE9 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE9 5\" >Details</a>",
-        "houses": 3720
+        "houses": 3920,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46711,7 +46875,9 @@
         "fill-opacity": 0.5,
         "Name": "SE9 6",
         "Description": "SE9 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE9 6\" >Details</a>",
-        "houses": 4044
+        "houses": 4244,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47313,7 +47479,9 @@
         "fill-opacity": 0.5,
         "Name": "SE9 1",
         "Description": "SE9 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE9 1\" >Details</a>",
-        "houses": 4531
+        "houses": 4731,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47859,7 +48027,9 @@
         "fill-opacity": 0.5,
         "Name": "SE3 8",
         "Description": "SE3 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE3 8\" >Details</a>",
-        "houses": 3748
+        "houses": 3948,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48469,7 +48639,9 @@
         "fill-opacity": 0.5,
         "Name": "SE18 4",
         "Description": "SE18 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE18 4\" >Details</a>",
-        "houses": 3347
+        "houses": 3547,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49091,7 +49263,9 @@
         "fill-opacity": 0.5,
         "Name": "SE7 8",
         "Description": "SE7 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE7 8\" >Details</a>",
-        "houses": 3571
+        "houses": 3771,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49617,7 +49791,9 @@
         "fill-opacity": 0.5,
         "Name": "SE7 7",
         "Description": "SE7 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE7 7\" >Details</a>",
-        "houses": 5147
+        "houses": 5347,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50107,7 +50283,9 @@
         "fill-opacity": 0.5,
         "Name": "SE18 5",
         "Description": "SE18 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE18 5\" >Details</a>",
-        "houses": 4375
+        "houses": 4575,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50597,7 +50775,9 @@
         "fill-opacity": 0.5,
         "Name": "SE18 6",
         "Description": "SE18 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE18 6\" >Details</a>",
-        "houses": 5362
+        "houses": 5562,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51175,7 +51355,9 @@
         "fill-opacity": 0.5,
         "Name": "SE18 3",
         "Description": "SE18 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE18 3\" >Details</a>",
-        "houses": 4290
+        "houses": 4490,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51621,7 +51803,9 @@
         "fill-opacity": 0.5,
         "Name": "SE18 2",
         "Description": "SE18 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE18 2\" >Details</a>",
-        "houses": 4074
+        "houses": 4274,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52039,7 +52223,9 @@
         "fill-opacity": 0.5,
         "Name": "SE18 7",
         "Description": "SE18 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE18 7\" >Details</a>",
-        "houses": 5068
+        "houses": 5268,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52505,7 +52691,9 @@
         "fill-opacity": 0.5,
         "Name": "SE28 0",
         "Description": "SE28 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE28 0\" >Details</a>",
-        "houses": 4230
+        "houses": 4430,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52907,7 +53095,9 @@
         "fill-opacity": 0.5,
         "Name": "SE18 1",
         "Description": "SE18 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE18 1\" >Details</a>",
-        "houses": 5052
+        "houses": 5252,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53281,7 +53471,9 @@
         "fill-opacity": 0.5,
         "Name": "SE2 0",
         "Description": "SE2 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE2 0\" >Details</a>",
-        "houses": 4902
+        "houses": 5102,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53927,7 +54119,9 @@
         "fill-opacity": 0.5,
         "Name": "SE2 9",
         "Description": "SE2 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE2 9\" >Details</a>",
-        "houses": 5710
+        "houses": 5910,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54449,7 +54643,9 @@
         "fill-opacity": 0.5,
         "Name": "SE28 8",
         "Description": "SE28 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SE28 8\" >Details</a>",
-        "houses": 6605
+        "houses": 6805,
+        "price-solus": 85,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
