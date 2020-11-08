@@ -11,7 +11,9 @@
         "fill-opacity": 0.5,
         "Name": "WD3 3",
         "Description": "WD3 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=WD3 3\" >Details</a>",
-        "houses": 4979
+        "houses": 5079,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -365,7 +367,9 @@
         "fill-opacity": 0.5,
         "Name": "WD3 1",
         "Description": "WD3 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=WD3 1\" >Details</a>",
-        "houses": 2231
+        "houses": 2331,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
