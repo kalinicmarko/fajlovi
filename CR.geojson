@@ -20,7 +20,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 4590
+        "houses": 4790,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -523,7 +525,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 7666
+        "houses": 7866,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1086,7 +1090,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 7115
+        "houses": 7315,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1645,7 +1651,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 3779
+        "houses": 3979,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2188,7 +2196,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 6697
+        "houses": 6897,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2723,7 +2733,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 6507
+        "houses": 6707,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3350,7 +3362,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 2774
+        "houses": 2974,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3797,7 +3811,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 6538
+        "houses": 6738,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4344,7 +4360,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 7720
+        "houses": 7920,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5191,7 +5209,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 10437
+        "houses": 10637,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6034,7 +6054,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 5036
+        "houses": 5236,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6825,7 +6847,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 9285
+        "houses": 9485,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7464,7 +7488,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 6831
+        "houses": 7031,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8175,7 +8201,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 5125
+        "houses": 5325,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8690,7 +8718,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 4840
+        "houses": 5040,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9425,7 +9455,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 3948
+        "houses": 4148,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10020,7 +10052,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 4477
+        "houses": 4677,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10663,7 +10697,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 4906
+        "houses": 5106,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11258,7 +11294,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 6457
+        "houses": 6657,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11693,7 +11731,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 4439
+        "houses": 4639,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12540,7 +12580,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 4178
+        "houses": 4378,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13107,7 +13149,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 3159
+        "houses": 3359,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13846,7 +13890,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 1810
+        "houses": 2010,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14341,7 +14387,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 2038
+        "houses": 2238,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14792,7 +14840,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 2796
+        "houses": 2996,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15167,7 +15217,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 3386
+        "houses": 3586,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15674,7 +15726,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 2258
+        "houses": 2458,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16125,7 +16179,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 3636
+        "houses": 3836,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16652,7 +16708,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 4303
+        "houses": 4503,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17167,7 +17225,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 4119
+        "houses": 4319,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17634,7 +17694,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 2113
+        "houses": 2313,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17969,7 +18031,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 4525
+        "houses": 4725,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18544,7 +18608,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 5513
+        "houses": 5713,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18963,7 +19029,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 4226
+        "houses": 4426,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19326,7 +19394,9 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null",
-        "houses": 748
+        "houses": 948,
+        "price-solus": 140,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
