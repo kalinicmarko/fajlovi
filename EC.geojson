@@ -11,7 +11,9 @@
         "fill-opacity": 0.5,
         "Name": "EC1A",
         "Description": "EC1A postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC1A\" >Details</a>",
-        "houses": 734
+        "houses": 934,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -395,7 +397,9 @@
         "fill-opacity": 0.5,
         "Name": "EC1M",
         "Description": "EC1M postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC1M\" >Details</a>",
-        "houses": 664
+        "houses": 864,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -875,7 +879,9 @@
         "fill-opacity": 0.5,
         "Name": "EC1N",
         "Description": "EC1N postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC1N\" >Details</a>",
-        "houses": 1290
+        "houses": 1490,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -1287,7 +1293,9 @@
         "fill-opacity": 0.5,
         "Name": "EC1R",
         "Description": "EC1R postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC1R\" >Details</a>",
-        "houses": 2880
+        "houses": 3080,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -2019,7 +2027,9 @@
         "fill-opacity": 0.5,
         "Name": "EC1V",
         "Description": "EC1V postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC1V\" >Details</a>",
-        "houses": 8229
+        "houses": 8429,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -3167,7 +3177,9 @@
         "fill-opacity": 0.5,
         "Name": "EC1Y",
         "Description": "EC1Y postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC1Y\" >Details</a>",
-        "houses": 1871
+        "houses": 2071,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -3711,7 +3723,9 @@
         "fill-opacity": 0.5,
         "Name": "EC2A",
         "Description": "EC2A postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC2A\" >Details</a>",
-        "houses": 960
+        "houses": 1160,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -4107,7 +4121,9 @@
         "fill-opacity": 0.5,
         "Name": "EC2M",
         "Description": "EC2M postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC2M\" >Details</a>",
-        "houses": 92
+        "houses": 292,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -4567,7 +4583,9 @@
         "fill-opacity": 0.5,
         "Name": "EC2N",
         "Description": "EC2N postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC2N\" >Details</a>",
-        "houses": 6
+        "houses": 206,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -4823,7 +4841,9 @@
         "fill-opacity": 0.5,
         "Name": "EC2R",
         "Description": "EC2R postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC2R\" >Details</a>",
-        "houses": 21
+        "houses": 221,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -5123,7 +5143,9 @@
         "fill-opacity": 0.5,
         "Name": "EC2V",
         "Description": "EC2V postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC2V\" >Details</a>",
-        "houses": 6
+        "houses": 206,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -5399,7 +5421,9 @@
         "fill-opacity": 0.5,
         "Name": "EC2Y",
         "Description": "EC2Y postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC2Y\" >Details</a>",
-        "houses": 2622
+        "houses": 2822,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -5743,7 +5767,9 @@
         "fill-opacity": 0.5,
         "Name": "EC3A",
         "Description": "EC3A postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC3A\" >Details</a>",
-        "houses": 49
+        "houses": 249,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -5971,7 +5997,9 @@
         "fill-opacity": 0.5,
         "Name": "EC3M",
         "Description": "EC3M postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC3M\" >Details</a>",
-        "houses": 16
+        "houses": 216,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -6231,7 +6259,9 @@
         "fill-opacity": 0.5,
         "Name": "EC3N",
         "Description": "EC3N postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC3N\" >Details</a>",
-        "houses": 329
+        "houses": 529,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -6571,7 +6601,9 @@
         "fill-opacity": 0.5,
         "Name": "EC3R",
         "Description": "EC3R postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC3R\" >Details</a>",
-        "houses": 168
+        "houses": 368,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -6823,7 +6855,9 @@
         "fill-opacity": 0.5,
         "Name": "EC3V",
         "Description": "EC3V postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC3V\" >Details</a>",
-        "houses": 14
+        "houses": 214,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -7071,7 +7105,9 @@
         "fill-opacity": 0.5,
         "Name": "EC4A",
         "Description": "EC4A postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC4A\" >Details</a>",
-        "houses": 472
+        "houses": 672,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -7463,7 +7499,9 @@
         "fill-opacity": 0.5,
         "Name": "EC4M",
         "Description": "EC4M postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC4M\" >Details</a>",
-        "houses": 128
+        "houses": 328,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -7835,7 +7873,9 @@
         "fill-opacity": 0.5,
         "Name": "EC4N",
         "Description": "EC4N postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC4N\" >Details</a>",
-        "houses": 0
+        "houses": 0,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -8123,7 +8163,9 @@
         "fill-opacity": 0.5,
         "Name": "EC4R",
         "Description": "EC4R postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC4R\" >Details</a>",
-        "houses": 63
+        "houses": 263,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
@@ -8383,7 +8425,9 @@
         "fill-opacity": 0.5,
         "Name": "EC4Y",
         "Description": "EC4Y postcode district<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=EC4Y\" >Details</a>",
-        "houses": 260
+        "houses": 460,
+        "price-solus": 70,
+        "price-shared": 35
       },
       "geometry": {
         "type": "Polygon",
