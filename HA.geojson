@@ -11,7 +11,9 @@
         "fill-opacity": 0.5,
         "Name": "HA6 2",
         "Description": "HA6 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA6 2\" >Details</a>",
-        "houses": 3814
+        "houses": 4014,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -485,7 +487,9 @@
         "fill-opacity": 0.5,
         "Name": "HA4 7",
         "Description": "HA4 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA4 7\" >Details</a>",
-        "houses": 4050
+        "houses": 4250,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1083,7 +1087,9 @@
         "fill-opacity": 0.5,
         "Name": "HA6 3",
         "Description": "HA6 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA6 3\" >Details</a>",
-        "houses": 2214
+        "houses": 2414,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1481,7 +1487,9 @@
         "fill-opacity": 0.5,
         "Name": "HA6 1",
         "Description": "HA6 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA6 1\" >Details</a>",
-        "houses": 3491
+        "houses": 3691,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1975,7 +1983,9 @@
         "fill-opacity": 0.5,
         "Name": "HA5 2",
         "Description": "HA5 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA5 2\" >Details</a>",
-        "houses": 3824
+        "houses": 4024,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2557,7 +2567,9 @@
         "fill-opacity": 0.5,
         "Name": "HA4 8",
         "Description": "HA4 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA4 8\" >Details</a>",
-        "houses": 4336
+        "houses": 4536,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3155,7 +3167,9 @@
         "fill-opacity": 0.5,
         "Name": "HA4 6",
         "Description": "HA4 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA4 6\" >Details</a>",
-        "houses": 3681
+        "houses": 3881,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3701,7 +3715,9 @@
         "fill-opacity": 0.5,
         "Name": "HA4 0",
         "Description": "HA4 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA4 0\" >Details</a>",
-        "houses": 4449
+        "houses": 4649,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4447,7 +4463,9 @@
         "fill-opacity": 0.5,
         "Name": "HA4 9",
         "Description": "HA4 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA4 9\" >Details</a>",
-        "houses": 4308
+        "houses": 4508,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5009,7 +5027,9 @@
         "fill-opacity": 0.5,
         "Name": "HA2 8",
         "Description": "HA2 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA2 8\" >Details</a>",
-        "houses": 5685
+        "houses": 5885,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5583,7 +5603,9 @@
         "fill-opacity": 0.5,
         "Name": "HA2 9",
         "Description": "HA2 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA2 9\" >Details</a>",
-        "houses": 4838
+        "houses": 5038,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6025,7 +6047,9 @@
         "fill-opacity": 0.5,
         "Name": "HA5 1",
         "Description": "HA5 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA5 1\" >Details</a>",
-        "houses": 3114
+        "houses": 3314,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6611,7 +6635,9 @@
         "fill-opacity": 0.5,
         "Name": "HA5 3",
         "Description": "HA5 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA5 3\" >Details</a>",
-        "houses": 5226
+        "houses": 5426,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7405,7 +7431,9 @@
         "fill-opacity": 0.5,
         "Name": "HA5 5",
         "Description": "HA5 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA5 5\" >Details</a>",
-        "houses": 2735
+        "houses": 2935,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8159,7 +8187,9 @@
         "fill-opacity": 0.5,
         "Name": "HA5 4",
         "Description": "HA5 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA5 4\" >Details</a>",
-        "houses": 3357
+        "houses": 3557,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8617,7 +8647,9 @@
         "fill-opacity": 0.5,
         "Name": "HA2 7",
         "Description": "HA2 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA2 7\" >Details</a>",
-        "houses": 3074
+        "houses": 3274,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9039,7 +9071,9 @@
         "fill-opacity": 0.5,
         "Name": "HA2 0",
         "Description": "HA2 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA2 0\" >Details</a>",
-        "houses": 3899
+        "houses": 4099,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9709,7 +9743,9 @@
         "fill-opacity": 0.5,
         "Name": "HA1 3",
         "Description": "HA1 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA1 3\" >Details</a>",
-        "houses": 3569
+        "houses": 3769,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10563,7 +10599,9 @@
         "fill-opacity": 0.5,
         "Name": "HA0 2",
         "Description": "HA0 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA0 2\" >Details</a>",
-        "houses": 5030
+        "houses": 5230,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11441,7 +11479,9 @@
         "fill-opacity": 0.5,
         "Name": "HA1 4",
         "Description": "HA1 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA1 4\" >Details</a>",
-        "houses": 6161
+        "houses": 6361,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12227,7 +12267,9 @@
         "fill-opacity": 0.5,
         "Name": "HA2 6",
         "Description": "HA2 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA2 6\" >Details</a>",
-        "houses": 2816
+        "houses": 3016,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12825,7 +12867,9 @@
         "fill-opacity": 0.5,
         "Name": "HA3 6",
         "Description": "HA3 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA3 6\" >Details</a>",
-        "houses": 3646
+        "houses": 3846,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13491,7 +13535,9 @@
         "fill-opacity": 0.5,
         "Name": "HA3 5",
         "Description": "HA3 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA3 5\" >Details</a>",
-        "houses": 3576
+        "houses": 3776,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14077,7 +14123,9 @@
         "fill-opacity": 0.5,
         "Name": "HA1 1",
         "Description": "HA1 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA1 1\" >Details</a>",
-        "houses": 2440
+        "houses": 2640,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14571,7 +14619,9 @@
         "fill-opacity": 0.5,
         "Name": "HA1 2",
         "Description": "HA1 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA1 2\" >Details</a>",
-        "houses": 3105
+        "houses": 3305,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14997,7 +15047,9 @@
         "fill-opacity": 0.5,
         "Name": "HA0 4",
         "Description": "HA0 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA0 4\" >Details</a>",
-        "houses": 4137
+        "houses": 4337,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15591,7 +15643,9 @@
         "fill-opacity": 0.5,
         "Name": "HA0 1",
         "Description": "HA0 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA0 1\" >Details</a>",
-        "houses": 3701
+        "houses": 3901,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16297,7 +16351,9 @@
         "fill-opacity": 0.5,
         "Name": "HA0 3",
         "Description": "HA0 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA0 3\" >Details</a>",
-        "houses": 3371
+        "houses": 3571,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16819,7 +16875,9 @@
         "fill-opacity": 0.5,
         "Name": "HA9 6",
         "Description": "HA9 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA9 6\" >Details</a>",
-        "houses": 3245
+        "houses": 3445,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17205,7 +17263,9 @@
         "fill-opacity": 0.5,
         "Name": "HA9 7",
         "Description": "HA9 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA9 7\" >Details</a>",
-        "houses": 2720
+        "houses": 2920,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17763,7 +17823,9 @@
         "fill-opacity": 0.5,
         "Name": "HA9 0",
         "Description": "HA9 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA9 0\" >Details</a>",
-        "houses": 2197
+        "houses": 2397,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18057,7 +18119,9 @@
         "fill-opacity": 0.5,
         "Name": "HA9 8",
         "Description": "HA9 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA9 8\" >Details</a>",
-        "houses": 4116
+        "houses": 4316,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18727,7 +18791,9 @@
         "fill-opacity": 0.5,
         "Name": "HA9 9",
         "Description": "HA9 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA9 9\" >Details</a>",
-        "houses": 4622
+        "houses": 4822,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19189,7 +19255,9 @@
         "fill-opacity": 0.5,
         "Name": "HA3 0",
         "Description": "HA3 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA3 0\" >Details</a>",
-        "houses": 4037
+        "houses": 4237,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19847,7 +19915,9 @@
         "fill-opacity": 0.5,
         "Name": "HA3 9",
         "Description": "HA3 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA3 9\" >Details</a>",
-        "houses": 4500
+        "houses": 4700,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20533,7 +20603,9 @@
         "fill-opacity": 0.5,
         "Name": "HA3 8",
         "Description": "HA3 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA3 8\" >Details</a>",
-        "houses": 4423
+        "houses": 4623,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21227,7 +21299,9 @@
         "fill-opacity": 0.5,
         "Name": "HA3 7",
         "Description": "HA3 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA3 7\" >Details</a>",
-        "houses": 4513
+        "houses": 4713,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21789,7 +21863,9 @@
         "fill-opacity": 0.5,
         "Name": "HA7 2",
         "Description": "HA7 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA7 2\" >Details</a>",
-        "houses": 3490
+        "houses": 3690,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22575,7 +22651,9 @@
         "fill-opacity": 0.5,
         "Name": "HA7 3",
         "Description": "HA7 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA7 3\" >Details</a>",
-        "houses": 2843
+        "houses": 3043,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23337,7 +23415,9 @@
         "fill-opacity": 0.5,
         "Name": "HA8 5",
         "Description": "HA8 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA8 5\" >Details</a>",
-        "houses": 4403
+        "houses": 4603,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23963,7 +24043,9 @@
         "fill-opacity": 0.5,
         "Name": "HA7 1",
         "Description": "HA7 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA7 1\" >Details</a>",
-        "houses": 3847
+        "houses": 4047,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24477,7 +24559,9 @@
         "fill-opacity": 0.5,
         "Name": "HA8 6",
         "Description": "HA8 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA8 6\" >Details</a>",
-        "houses": 3511
+        "houses": 3711,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25083,7 +25167,9 @@
         "fill-opacity": 0.5,
         "Name": "HA7 4",
         "Description": "HA7 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA7 4\" >Details</a>",
-        "houses": 3900
+        "houses": 4100,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25801,7 +25887,9 @@
         "fill-opacity": 0.5,
         "Name": "HA8 7",
         "Description": "HA8 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA8 7\" >Details</a>",
-        "houses": 1894
+        "houses": 2094,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26339,7 +26427,9 @@
         "fill-opacity": 0.5,
         "Name": "HA8 0",
         "Description": "HA8 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA8 0\" >Details</a>",
-        "houses": 3638
+        "houses": 3838,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27009,7 +27099,9 @@
         "fill-opacity": 0.5,
         "Name": "HA8 9",
         "Description": "HA8 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA8 9\" >Details</a>",
-        "houses": 4843
+        "houses": 5043,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27963,7 +28055,9 @@
         "fill-opacity": 0.5,
         "Name": "HA8 8",
         "Description": "HA8 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=HA8 8\" >Details</a>",
-        "houses": 5900
+        "houses": 6100,
+        "price-solus": 90,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
