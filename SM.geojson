@@ -11,7 +11,9 @@
         "fill-opacity": 0.5,
         "Name": "SM7 1",
         "Description": "SM7 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM7 1\" >Details</a>",
-        "houses": 2633
+        "houses": 2833,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -405,7 +407,9 @@
         "fill-opacity": 0.5,
         "Name": "SM7 2",
         "Description": "SM7 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM7 2\" >Details</a>",
-        "houses": 2905
+        "houses": 3105,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -815,7 +819,9 @@
         "fill-opacity": 0.5,
         "Name": "SM7 3",
         "Description": "SM7 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM7 3\" >Details</a>",
-        "houses": 1976
+        "houses": 2176,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1213,7 +1219,9 @@
         "fill-opacity": 0.5,
         "Name": "SM2 7",
         "Description": "SM2 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM2 7\" >Details</a>",
-        "houses": 2473
+        "houses": 2673,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1603,7 +1611,9 @@
         "fill-opacity": 0.5,
         "Name": "SM2 6",
         "Description": "SM2 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM2 6\" >Details</a>",
-        "houses": 4868
+        "houses": 5068,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2333,7 +2343,9 @@
         "fill-opacity": 0.5,
         "Name": "SM2 5",
         "Description": "SM2 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM2 5\" >Details</a>",
-        "houses": 5528
+        "houses": 5728,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3015,7 +3027,9 @@
         "fill-opacity": 0.5,
         "Name": "SM5 4",
         "Description": "SM5 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM5 4\" >Details</a>",
-        "houses": 2311
+        "houses": 2511,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3453,7 +3467,9 @@
         "fill-opacity": 0.5,
         "Name": "SM6 0",
         "Description": "SM6 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM6 0\" >Details</a>",
-        "houses": 2968
+        "houses": 3168,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4035,7 +4051,9 @@
         "fill-opacity": 0.5,
         "Name": "SM6 9",
         "Description": "SM6 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM6 9\" >Details</a>",
-        "houses": 4774
+        "houses": 4974,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4549,7 +4567,9 @@
         "fill-opacity": 0.5,
         "Name": "SM6 8",
         "Description": "SM6 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM6 8\" >Details</a>",
-        "houses": 5449
+        "houses": 5649,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5127,7 +5147,9 @@
         "fill-opacity": 0.5,
         "Name": "SM5 3",
         "Description": "SM5 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM5 3\" >Details</a>",
-        "houses": 3298
+        "houses": 3498,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5637,7 +5659,9 @@
         "fill-opacity": 0.5,
         "Name": "SM6 7",
         "Description": "SM6 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM6 7\" >Details</a>",
-        "houses": 2951
+        "houses": 3151,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6127,7 +6151,9 @@
         "fill-opacity": 0.5,
         "Name": "SM5 2",
         "Description": "SM5 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM5 2\" >Details</a>",
-        "houses": 4400
+        "houses": 4600,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6741,7 +6767,9 @@
         "fill-opacity": 0.5,
         "Name": "SM1 3",
         "Description": "SM1 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM1 3\" >Details</a>",
-        "houses": 4937
+        "houses": 5137,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7411,7 +7439,9 @@
         "fill-opacity": 0.5,
         "Name": "SM1 4",
         "Description": "SM1 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM1 4\" >Details</a>",
-        "houses": 5196
+        "houses": 5396,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7997,7 +8027,9 @@
         "fill-opacity": 0.5,
         "Name": "SM1 1",
         "Description": "SM1 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM1 1\" >Details</a>",
-        "houses": 1269
+        "houses": 1469,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8491,7 +8523,9 @@
         "fill-opacity": 0.5,
         "Name": "SM1 2",
         "Description": "SM1 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM1 2\" >Details</a>",
-        "houses": 5629
+        "houses": 5829,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9129,7 +9163,9 @@
         "fill-opacity": 0.5,
         "Name": "SM3 8",
         "Description": "SM3 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM3 8\" >Details</a>",
-        "houses": 2996
+        "houses": 3196,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9551,7 +9587,9 @@
         "fill-opacity": 0.5,
         "Name": "SM3 9",
         "Description": "SM3 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM3 9\" >Details</a>",
-        "houses": 5578
+        "houses": 5778,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10109,7 +10147,9 @@
         "fill-opacity": 0.5,
         "Name": "SM5 1",
         "Description": "SM5 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM5 1\" >Details</a>",
-        "houses": 5543
+        "houses": 5743,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10643,7 +10683,9 @@
         "fill-opacity": 0.5,
         "Name": "SM4 6",
         "Description": "SM4 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM4 6\" >Details</a>",
-        "houses": 5439
+        "houses": 5639,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11233,7 +11275,9 @@
         "fill-opacity": 0.5,
         "Name": "SM4 5",
         "Description": "SM4 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM4 5\" >Details</a>",
-        "houses": 3756
+        "houses": 3956,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11735,7 +11779,9 @@
         "fill-opacity": 0.5,
         "Name": "SM4 4",
         "Description": "SM4 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=SM4 4\" >Details</a>",
-        "houses": 5256
+        "houses": 5456,
+        "price-solus": 100,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
