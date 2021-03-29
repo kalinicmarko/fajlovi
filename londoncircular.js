@@ -1,4 +1,6 @@
-var map;
+$( document ).ready(function() {
+    console.log( "ready!" );
+	var map;
 		var properties = [];
 		var textareaText = "";
 		var properties = JSON.parse(window.sessionStorage.getItem('properties')) || [];
@@ -258,3 +260,4 @@ var map;
 				}
 			});
 		}
+});
