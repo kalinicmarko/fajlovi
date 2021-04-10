@@ -11,7 +11,9 @@
         "fill-opacity": 0.5,
         "Name": "NW1 2",
         "Description": "NW1 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW1 2\" >Details</a>",
-        "houses": 1272
+        "houses": 1272,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -609,7 +611,9 @@
         "fill-opacity": 0.5,
         "Name": "NW1 1",
         "Description": "NW1 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW1 1\" >Details</a>",
-        "houses": 2965
+        "houses": 2965,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -955,7 +959,9 @@
         "fill-opacity": 0.5,
         "Name": "NW1 3",
         "Description": "NW1 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW1 3\" >Details</a>",
-        "houses": 2696
+        "houses": 2696,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1429,7 +1435,9 @@
         "fill-opacity": 0.5,
         "Name": "NW1 7",
         "Description": "NW1 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW1 7\" >Details</a>",
-        "houses": 2335
+        "houses": 2335,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1839,7 +1847,9 @@
         "fill-opacity": 0.5,
         "Name": "NW1 0",
         "Description": "NW1 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW1 0\" >Details</a>",
-        "houses": 3060
+        "houses": 3060,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2293,7 +2303,9 @@
         "fill-opacity": 0.5,
         "Name": "NW1 9",
         "Description": "NW1 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW1 9\" >Details</a>",
-        "houses": 4232
+        "houses": 4232,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2987,7 +2999,9 @@
         "fill-opacity": 0.5,
         "Name": "NW1 8",
         "Description": "NW1 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW1 8\" >Details</a>",
-        "houses": 3242
+        "houses": 3242,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3589,7 +3603,9 @@
         "fill-opacity": 0.5,
         "Name": "NW1 4",
         "Description": "NW1 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW1 4\" >Details</a>",
-        "houses": 1552
+        "houses": 1552,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4139,7 +4155,9 @@
         "fill-opacity": 0.5,
         "Name": "NW1 5",
         "Description": "NW1 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW1 5\" >Details</a>",
-        "houses": 1185
+        "houses": 1185,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4837,7 +4855,9 @@
         "fill-opacity": 0.5,
         "Name": "NW1 6",
         "Description": "NW1 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW1 6\" >Details</a>",
-        "houses": 2945
+        "houses": 2945,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5335,7 +5355,9 @@
         "fill-opacity": 0.5,
         "Name": "NW8 8",
         "Description": "NW8 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW8 8\" >Details</a>",
-        "houses": 4333
+        "houses": 4333,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5861,7 +5883,9 @@
         "fill-opacity": 0.5,
         "Name": "NW8 7",
         "Description": "NW8 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW8 7\" >Details</a>",
-        "houses": 3400
+        "houses": 3400,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6387,7 +6411,9 @@
         "fill-opacity": 0.5,
         "Name": "NW8 9",
         "Description": "NW8 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW8 9\" >Details</a>",
-        "houses": 3343
+        "houses": 3343,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6941,7 +6967,9 @@
         "fill-opacity": 0.5,
         "Name": "NW8 6",
         "Description": "NW8 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW8 6\" >Details</a>",
-        "houses": 1766
+        "houses": 1766,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7379,7 +7407,9 @@
         "fill-opacity": 0.5,
         "Name": "NW8 0",
         "Description": "NW8 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW8 0\" >Details</a>",
-        "houses": 2828
+        "houses": 2828,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7977,7 +8007,9 @@
         "fill-opacity": 0.5,
         "Name": "NW3 3",
         "Description": "NW3 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW3 3\" >Details</a>",
-        "houses": 3398
+        "houses": 3398,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8471,7 +8503,9 @@
         "fill-opacity": 0.5,
         "Name": "NW3 4",
         "Description": "NW3 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW3 4\" >Details</a>",
-        "houses": 2368
+        "houses": 2368,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9013,7 +9047,9 @@
         "fill-opacity": 0.5,
         "Name": "NW3 2",
         "Description": "NW3 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW3 2\" >Details</a>",
-        "houses": 5057
+        "houses": 5057,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9647,7 +9683,9 @@
         "fill-opacity": 0.5,
         "Name": "NW3 5",
         "Description": "NW3 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW3 5\" >Details</a>",
-        "houses": 2107
+        "houses": 2107,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10381,7 +10419,9 @@
         "fill-opacity": 0.5,
         "Name": "NW5 3",
         "Description": "NW5 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW5 3\" >Details</a>",
-        "houses": 1299
+        "houses": 1299,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10851,7 +10891,9 @@
         "fill-opacity": 0.5,
         "Name": "NW5 4",
         "Description": "NW5 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW5 4\" >Details</a>",
-        "houses": 3902
+        "houses": 3902,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11273,7 +11315,9 @@
         "fill-opacity": 0.5,
         "Name": "NW5 2",
         "Description": "NW5 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW5 2\" >Details</a>",
-        "houses": 3208
+        "houses": 3208,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11771,7 +11815,9 @@
         "fill-opacity": 0.5,
         "Name": "NW5 1",
         "Description": "NW5 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW5 1\" >Details</a>",
-        "houses": 3346
+        "houses": 3346,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12213,7 +12259,9 @@
         "fill-opacity": 0.5,
         "Name": "NW3 1",
         "Description": "NW3 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW3 1\" >Details</a>",
-        "houses": 1546
+        "houses": 1546,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12611,7 +12659,9 @@
         "fill-opacity": 0.5,
         "Name": "NW3 7",
         "Description": "NW3 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW3 7\" >Details</a>",
-        "houses": 2330
+        "houses": 2330,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13253,7 +13303,9 @@
         "fill-opacity": 0.5,
         "Name": "NW3 6",
         "Description": "NW3 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW3 6\" >Details</a>",
-        "houses": 2138
+        "houses": 2138,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14247,7 +14299,9 @@
         "fill-opacity": 0.5,
         "Name": "NW6 4",
         "Description": "NW6 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW6 4\" >Details</a>",
-        "houses": 2669
+        "houses": 2669,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14977,7 +15031,9 @@
         "fill-opacity": 0.5,
         "Name": "NW6 3",
         "Description": "NW6 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW6 3\" >Details</a>",
-        "houses": 1721
+        "houses": 1721,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15383,7 +15439,9 @@
         "fill-opacity": 0.5,
         "Name": "NW6 2",
         "Description": "NW6 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW6 2\" >Details</a>",
-        "houses": 2448
+        "houses": 2448,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15765,7 +15823,9 @@
         "fill-opacity": 0.5,
         "Name": "NW6 1",
         "Description": "NW6 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW6 1\" >Details</a>",
-        "houses": 3608
+        "houses": 3608,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16267,7 +16327,9 @@
         "fill-opacity": 0.5,
         "Name": "NW6 5",
         "Description": "NW6 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW6 5\" >Details</a>",
-        "houses": 5381
+        "houses": 5381,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16805,7 +16867,9 @@
         "fill-opacity": 0.5,
         "Name": "NW6 6",
         "Description": "NW6 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW6 6\" >Details</a>",
-        "houses": 2616
+        "houses": 2616,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17363,7 +17427,9 @@
         "fill-opacity": 0.5,
         "Name": "NW6 7",
         "Description": "NW6 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW6 7\" >Details</a>",
-        "houses": 3630
+        "houses": 3630,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18037,7 +18103,9 @@
         "fill-opacity": 0.5,
         "Name": "NW2 3",
         "Description": "NW2 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW2 3\" >Details</a>",
-        "houses": 3353
+        "houses": 3353,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18711,7 +18779,9 @@
         "fill-opacity": 0.5,
         "Name": "NW2 4",
         "Description": "NW2 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW2 4\" >Details</a>",
-        "houses": 2099
+        "houses": 2099,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19413,7 +19483,9 @@
         "fill-opacity": 0.5,
         "Name": "NW2 5",
         "Description": "NW2 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW2 5\" >Details</a>",
-        "houses": 3299
+        "houses": 3299,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20179,7 +20251,9 @@
         "fill-opacity": 0.5,
         "Name": "NW10 3",
         "Description": "NW10 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW10 3\" >Details</a>",
-        "houses": 2302
+        "houses": 2302,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20937,7 +21011,9 @@
         "fill-opacity": 0.5,
         "Name": "NW10 5",
         "Description": "NW10 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW10 5\" >Details</a>",
-        "houses": 5215
+        "houses": 5215,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21647,7 +21723,9 @@
         "fill-opacity": 0.5,
         "Name": "NW10 6",
         "Description": "NW10 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW10 6\" >Details</a>",
-        "houses": 1224
+        "houses": 1224,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22117,7 +22195,9 @@
         "fill-opacity": 0.5,
         "Name": "NW10 4",
         "Description": "NW10 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW10 4\" >Details</a>",
-        "houses": 2599
+        "houses": 2599,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22599,7 +22679,9 @@
         "fill-opacity": 0.5,
         "Name": "NW10 8",
         "Description": "NW10 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW10 8\" >Details</a>",
-        "houses": 4144
+        "houses": 4144,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23329,7 +23411,9 @@
         "fill-opacity": 0.5,
         "Name": "NW10 7",
         "Description": "NW10 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW10 7\" >Details</a>",
-        "houses": 2212
+        "houses": 2212,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23843,7 +23927,9 @@
         "fill-opacity": 0.5,
         "Name": "NW10 0",
         "Description": "NW10 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW10 0\" >Details</a>",
-        "houses": 3980
+        "houses": 3980,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24741,7 +24827,9 @@
         "fill-opacity": 0.5,
         "Name": "NW10 9",
         "Description": "NW10 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW10 9\" >Details</a>",
-        "houses": 3178
+        "houses": 3178,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25375,7 +25463,9 @@
         "fill-opacity": 0.5,
         "Name": "NW10 1",
         "Description": "NW10 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW10 1\" >Details</a>",
-        "houses": 3121
+        "houses": 3121,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25933,7 +26023,9 @@
         "fill-opacity": 0.5,
         "Name": "NW10 2",
         "Description": "NW10 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW10 2\" >Details</a>",
-        "houses": 2692
+        "houses": 2692,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26643,7 +26735,9 @@
         "fill-opacity": 0.5,
         "Name": "NW2 6",
         "Description": "NW2 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW2 6\" >Details</a>",
-        "houses": 4146
+        "houses": 4146,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27285,7 +27379,9 @@
         "fill-opacity": 0.5,
         "Name": "NW2 7",
         "Description": "NW2 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW2 7\" >Details</a>",
-        "houses": 3531
+        "houses": 3531,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27707,7 +27803,9 @@
         "fill-opacity": 0.5,
         "Name": "NW9 7",
         "Description": "NW9 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW9 7\" >Details</a>",
-        "houses": 3185
+        "houses": 3185,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28197,7 +28295,9 @@
         "fill-opacity": 0.5,
         "Name": "NW9 8",
         "Description": "NW9 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW9 8\" >Details</a>",
-        "houses": 3871
+        "houses": 3871,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28699,7 +28799,9 @@
         "fill-opacity": 0.5,
         "Name": "NW9 0",
         "Description": "NW9 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW9 0\" >Details</a>",
-        "houses": 3433
+        "houses": 3433,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29309,7 +29411,9 @@
         "fill-opacity": 0.5,
         "Name": "NW9 9",
         "Description": "NW9 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW9 9\" >Details</a>",
-        "houses": 2862
+        "houses": 2862,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29847,7 +29951,9 @@
         "fill-opacity": 0.5,
         "Name": "NW11 6",
         "Description": "NW11 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW11 6\" >Details</a>",
-        "houses": 2612
+        "houses": 2612,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30565,7 +30671,9 @@
         "fill-opacity": 0.5,
         "Name": "NW11 7",
         "Description": "NW11 7 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW11 7\" >Details</a>",
-        "houses": 2421
+        "houses": 2421,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31243,7 +31351,9 @@
         "fill-opacity": 0.5,
         "Name": "NW11 0",
         "Description": "NW11 0 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW11 0\" >Details</a>",
-        "houses": 2038
+        "houses": 2038,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31773,7 +31883,9 @@
         "fill-opacity": 0.5,
         "Name": "NW11 9",
         "Description": "NW11 9 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW11 9\" >Details</a>",
-        "houses": 2467
+        "houses": 2467,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32291,7 +32403,9 @@
         "fill-opacity": 0.5,
         "Name": "NW11 8",
         "Description": "NW11 8 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW11 8\" >Details</a>",
-        "houses": 1979
+        "houses": 1979,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32905,7 +33019,9 @@
         "fill-opacity": 0.5,
         "Name": "NW2 2",
         "Description": "NW2 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW2 2\" >Details</a>",
-        "houses": 2277
+        "houses": 2277,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33451,7 +33567,9 @@
         "fill-opacity": 0.5,
         "Name": "NW2 1",
         "Description": "NW2 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW2 1\" >Details</a>",
-        "houses": 3315
+        "houses": 3315,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34097,7 +34215,9 @@
         "fill-opacity": 0.5,
         "Name": "NW4 3",
         "Description": "NW4 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW4 3\" >Details</a>",
-        "houses": 3023
+        "houses": 3023,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34475,7 +34595,9 @@
         "fill-opacity": 0.5,
         "Name": "NW4 2",
         "Description": "NW4 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW4 2\" >Details</a>",
-        "houses": 3071
+        "houses": 3071,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34889,7 +35011,9 @@
         "fill-opacity": 0.5,
         "Name": "NW4 1",
         "Description": "NW4 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW4 1\" >Details</a>",
-        "houses": 2675
+        "houses": 2675,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35371,7 +35495,9 @@
         "fill-opacity": 0.5,
         "Name": "NW4 4",
         "Description": "NW4 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW4 4\" >Details</a>",
-        "houses": 3020
+        "houses": 3020,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35985,7 +36111,9 @@
         "fill-opacity": 0.5,
         "Name": "NW9 6",
         "Description": "NW9 6 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW9 6\" >Details</a>",
-        "houses": 2362
+        "houses": 2362,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36523,7 +36651,9 @@
         "fill-opacity": 0.5,
         "Name": "NW9 5",
         "Description": "NW9 5 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW9 5\" >Details</a>",
-        "houses": 9910
+        "houses": 9910,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37025,7 +37155,9 @@
         "fill-opacity": 0.5,
         "Name": "NW7 1",
         "Description": "NW7 1 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW7 1\" >Details</a>",
-        "houses": 2848
+        "houses": 2848,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37515,7 +37647,9 @@
         "fill-opacity": 0.5,
         "Name": "NW7 2",
         "Description": "NW7 2 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW7 2\" >Details</a>",
-        "houses": 3046
+        "houses": 3046,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38069,7 +38203,9 @@
         "fill-opacity": 0.5,
         "Name": "NW7 3",
         "Description": "NW7 3 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW7 3\" >Details</a>",
-        "houses": 2155
+        "houses": 2155,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38707,7 +38843,9 @@
         "fill-opacity": 0.5,
         "Name": "NW7 4",
         "Description": "NW7 4 postcode sector<br  /><a href=\"http://www.doogal.co.uk/UKPostcodes.php?Search=NW7 4\" >Details</a>",
-        "houses": 2474
+        "houses": 2474,
+        "price-solus": 75,
+        "price-shared": 35
       },
       "geometry": {
         "type": "MultiPolygon",
